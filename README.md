@@ -4,7 +4,9 @@ This app is a tool to manually QA/QC particularly problematic addresses that are
 
 In this simplified MVP, two addresses and sets of coordinates attributable to locations in Ashe County, North Carolina are loaded into an in-memory database. One is incorrectly geocoded outside the county boundary, and is initially flagged as problematic.
 
-To fix this address, the user can search for the correct location and input the new coordinates, visualize the new point dynamically on a map, and update the database entry for that location:
+To fix this address, the user can search for the correct location and input the new coordinates, visualize the new point dynamically on a map, and update the database entry for that location.
+
+**A hosted version of this app is available here**: https://scottstetkiewicz.shinyapps.io/dynamic_geocoding/
 
 ### Step 1
 
